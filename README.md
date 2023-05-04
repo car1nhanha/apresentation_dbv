@@ -14,7 +14,7 @@ style: |
 
 ![bg left:25% 40%](./assets/D1.webp)
 
-#### **Filosofia, Estrutura e Orgazização do clube de Desbravadores**
+#### **Filosofia, Estrutura e Organização do clube de Desbravadores**
 
 <br>
 
@@ -34,7 +34,7 @@ Lucas Carinhanha de Araujo <br><br> - Arautos da verdade -
 - 1922 - Primeiras classes adicionadas
 - 1928 - Primeiras 16 especialidades adicionadas
 - 1932 - Primeiro "Acampamento dos Desbravadores" - Califórnia, EUA.
-- 1946 - Criação do Triangulo dos Desbravadores
+- 1946 - Criação do Triângulo dos Desbravadores
 - 1948 - Criação do Hino por Henry Berg
 - 1950 - A assembleia da Associação Geral vota a implantação do Clube de Desbravadores em todo o mundo.
 - 1953 - I Campori de Desbravadores
